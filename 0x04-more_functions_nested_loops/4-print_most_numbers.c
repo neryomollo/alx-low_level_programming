@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
+ * print_most_numbers - prints the set numbers
  * Author: Nery Omollo
- * print_most_numbers - prints
  * Return: void
  */
 
