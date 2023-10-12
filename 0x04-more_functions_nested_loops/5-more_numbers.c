@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
+ * more_numbers - function that prints set numbers
  * Author: Nery Omollo
- * more_numbers - nmbr fct
  * Return: no return
  */
 
