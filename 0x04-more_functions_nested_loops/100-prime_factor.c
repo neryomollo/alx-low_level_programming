@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * Author: Nery Omollo
  * main - prints the largest prime factor of 612852475143
  * Return: always 0
+ * Author: Nery Omollo
  **/
 
 int main(void)

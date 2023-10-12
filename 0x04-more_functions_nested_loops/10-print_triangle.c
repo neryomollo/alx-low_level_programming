@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * Author: Nery Omollo
- * print_triangle - entry point
- * Description: Prints diagonals
+ * print_triangle - start from where to print the triangle
+ * Prints diagonals
+ *
  * @size: size of the triangle
+ * Author:Nery Omollo
  * Return: void
  */
 

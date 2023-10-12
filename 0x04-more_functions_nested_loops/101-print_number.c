@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * Author: Nery Omollo
  * print_number - prints an integer
  * @n:.input integer parameter
  *
+ * Author: Nery Omollo
  */
 void print_number(int n)
 {

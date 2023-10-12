@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * Author: Nery Omollo
- * print_square - prints a square of size size
+ * print_square - prints a square of size defined by @size
  * @size: size of the square
  *
+ * Author: Nery Omollo
  * Return: void
  */
 

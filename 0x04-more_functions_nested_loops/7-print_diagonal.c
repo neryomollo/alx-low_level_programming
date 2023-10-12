@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * Author: Nery Omollo
- * print_diagonal - printing lines diagonal
+ * print_diagonal - function that prints diagonal lines
  * @n: input variable
  *
+ * Author: Nery Omollo
  * Return: void
  */
 
