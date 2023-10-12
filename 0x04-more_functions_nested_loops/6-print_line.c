@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * Author: Nery Omollo
- * print_line - printing lines
+ * print_line - function that prints lines
  * @n: number of times
  *
+ * Author: Nery Omollo
  * Return: void
  */
 
