@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
+ * print_numbers - prints 0123456789
  * Author: Nery Omollo
- * print_numbers - print 0123456789
  * Return: void
  */
 
